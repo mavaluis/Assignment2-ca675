@@ -6,14 +6,18 @@ GitHub repository for Assignment 2 (CA 675)
 - Press create (+) button on the top of the screen
   **Name Bucket**:
   - ca675-assigntment2-bucket
+  
   **Choose where to store data**:
   - Location: us (Multiple regions in United States)
   - Location type: Multi-region
+  
   **Choose storage class for your data**:
   - Default storage class: Standard
+  
   **Choose how to control access to object**:
   - Public access prevention: On
   - Access control: Uniform
+  
   **Choose how to protect object data**:
   - Protection tools: None
   - Data encryption: Google-managed
