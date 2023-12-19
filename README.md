@@ -61,6 +61,7 @@ Once done click the create button
 
 
 **How to use the scripts**
+
 You have to make sure that the /output directory in the bucket is empty, or else the scripts won't work.
 
 To use the scripts you need to write the following:
